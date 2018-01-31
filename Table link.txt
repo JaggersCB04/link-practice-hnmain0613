@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+<table>
+<tr>
+<th>Fall semester</th>
+</tr>
+<tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Honors English Language Arts 8</td>
+<td>8th Grade Honors Social Studies</td>
+<td>AVID - 8th Grade</td>
+<td>Introduction to Art</td>
+<td>Honors 8th Grade Science</td>
+<td>Algebra I</td>
+<td>Physical Education - General Elective</td>
+</tr>
+<tr>
+<td>Heather Anderson</td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/dxprice" target="_blank">David Price</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/vccichy" target="_blank">Valerie Cichy</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/nnwons/" target="_blank">Nathalie Wons</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mmbeaith/" target="_blank">Marissa Felix</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/klday" target="_blank">Kelly Day</a></td>
+<td>Reynaldo Peru</td>
+</tr>
+<tr>
+<td>81</td>
+<td>72</td>
+<td>76</td>
+<td>205</td>
+<td>13</td>
+<td>85</td>
+<td>Gym</td>
+</tr>
+<br />
+<hr />
+<br />
+<tr>
+<th>Spring Semester</th>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<td>8th Grade Honors Social Studies</td>
+<td>Physical Education - General Elective</td>
+<td>AVID - 8th Grade</td>
+<td>Honors English Language Arts 8</td>
+<td>Honors 8th Grade Science</td>
+<td>Web Creations</td>
+<td>Algebra I</td>
+</tr>
+<tr>
+<td><a href="http://www.mpsaz.org/rhodes/staff/dxprice" target="_blank">David Price</a></td>
+<td>Loretta Randall</td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/vccichy" target="_blank">Valerie Cichy</a></td>
+<td>Heather Anderson</td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mmbeaith/" target="_blank">Marissa Felix</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/sejaggers/" target="_blank">Sarah Jaggers</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/klday" target="_blank">Kelly Day</a></td>
+</tr>
+<tr>
+<td>72</td>
+<td>25</td>
+<td>76</td>
+<td>81</td>
+<td>13</td>
+<td>57</td>
+<td>85</td>
+</tr>
+   
+  </body>
+</html>
